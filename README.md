@@ -1,0 +1,1 @@
+wash当中的python代码全是kaggle平台pandas训练内容，这一文件夹主要记录pandas的学习成果
